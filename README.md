@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Ranjan!  
 
-I'm a **Senior Frontend Developer** who loves building **fast, scalable, and user-friendly web applications**. Whether it's a sleek UI, an optimized API, or a real-time system, I enjoy turning ideas into **high-performance digital experiences**.  
+I'm a **Frontend Web Developer** who loves building **fast, scalable, and user-friendly web applications**. Whether it's a sleek UI, an optimized API, or a real-time system, I enjoy turning ideas into **high-performance digital experiences**.  
 
 💡 **What I Do:**  
 - 🖥️ **Frontend Architect** – Crafting seamless UIs with **React, Next.js, Tailwind CSS, and ShadCN**  
