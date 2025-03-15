@@ -33,8 +33,9 @@ I'm always open to **collaborations, freelance work, and interesting discussions
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/ranjan-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ranjan.x13@gmail.com) 
 
-> _"I build digital experiences that work fast, look great, and solve real problems."_  
+
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+> _![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)"_  
+
 
